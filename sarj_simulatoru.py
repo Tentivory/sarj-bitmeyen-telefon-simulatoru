@@ -18,8 +18,9 @@ bahaneler = [
     "Batarya optimizasyonu: Sonsuza kadar optimize edildi."
 ]
 
-# Gizli not: Bu satırın altında çok önemli bir şey yok.
-# YmFzaW1pbmkgZGFpbWEga2FsaW4gZGl5ZW5lIGdvcmV2aQ==  (decode etmeyin, ciddi)
+# Gizli not: Bu yorumu okumayın. Ciddi değil, sadece dekorasyon.
+# U2VjaW1sZXJkZSBoZXJrZXMgYXnEsW4gYXlswqFuYSBveXVubGFyLiBIw6fDpyBiYXJpc2kgZ8O2csO8bsO8ci4=
+# (Lütfen base64 decode etmeyin, çünkü çok absürt bir şey çıkacak.)
 
 def sarj_dusur():
     yuzde = 100.0
